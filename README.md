@@ -54,17 +54,29 @@ Furthermore, we merged both dataframes to discover correlations between the colu
 # Key insights and conclusions drawn from our analysis include: Positive correlation between reviews and installs, while price and rating exhibit negative correlation.
 
 The "Art and Design" category has the highest number of installs.
+
 Developing apps within the "Family" and "Lifestyle" categories may result in higher revenue.
+
 Approximately 61% of users have a positive sentiment, while only around 15% express negative sentiment.
+
 Free apps account for 92.12% of the dataset, while paid apps constitute 7.81%.
+
 The "Everyone" content rating category dominates, representing 81.80% of all apps.
+
 The most prevalent categories on the Play Store are "Family," "Game," and "Tools."
+
 "Game" category presents potential opportunities for developers due to its high number of installs.
+
 Popular genres for app downloads include "Tools," "Entertainment," "Education," "Business," and "Medical."
+
 The average rating of apps on the Play Store is 4.17, indicating a satisfactory overall quality.
+
 Users prefer lightweight apps and may be hesitant to download larger, paid apps.
+
 Apps reviewed by a larger number of people tend to be downloaded more frequently.
+
 Users tend to leave harsher reviews for paid apps.
+
 A positive correlation exists between installs and rating.
 Developing an app with a high rating requires timely updates and optimal app size.
 Developing free apps with a content rating suitable for everyone is beneficial.
